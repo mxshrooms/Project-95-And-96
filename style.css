@@ -1,0 +1,46 @@
+#chattylogo {
+    width:50%;
+    height:100%;
+}
+#welcome {
+    margin-bottom:200px;
+    margin-top:-560px;
+    margin-left:850px;
+    font-size:55px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#plssignin {
+    margin-bottom:-80px;
+    margin-top:-168px;
+    margin-left:851px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:lighter;
+}
+#userinput {
+    margin-bottom:-80px;
+    margin-top:100px;
+    margin-left:851px;
+    height:30px;
+    width:315px;
+}
+#loginbutton {
+    margin-left:935px;
+    margin-bottom:-80px;
+    margin-top:105px;
+    width:150px;
+    height:40px;
+    background-image: linear-gradient(to right, #03469D, #3AB7FF);
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bold;
+    font-size:17px;
+    border:transparent;
+    border-radius:50px;
+}
+#user {
+    width:150px;
+    height:150px;
+    margin-left:930px;
+    margin-bottom:-80px;
+    margin-top:120px;
+}
